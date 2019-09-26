@@ -1,0 +1,293 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`list users 1`] = `
+Object {
+  "nextPage": "api/users?since=46",
+  "users": Array [
+    Object {
+      "id": 1,
+      "login": "mojombo",
+    },
+    Object {
+      "id": 2,
+      "login": "defunkt",
+    },
+    Object {
+      "id": 3,
+      "login": "pjhyett",
+    },
+    Object {
+      "id": 4,
+      "login": "wycats",
+    },
+    Object {
+      "id": 5,
+      "login": "ezmobius",
+    },
+    Object {
+      "id": 6,
+      "login": "ivey",
+    },
+    Object {
+      "id": 7,
+      "login": "evanphx",
+    },
+    Object {
+      "id": 17,
+      "login": "vanpelt",
+    },
+    Object {
+      "id": 18,
+      "login": "wayneeseguin",
+    },
+    Object {
+      "id": 19,
+      "login": "brynary",
+    },
+    Object {
+      "id": 20,
+      "login": "kevinclark",
+    },
+    Object {
+      "id": 21,
+      "login": "technoweenie",
+    },
+    Object {
+      "id": 22,
+      "login": "macournoyer",
+    },
+    Object {
+      "id": 23,
+      "login": "takeo",
+    },
+    Object {
+      "id": 25,
+      "login": "caged",
+    },
+    Object {
+      "id": 26,
+      "login": "topfunky",
+    },
+    Object {
+      "id": 27,
+      "login": "anotherjesse",
+    },
+    Object {
+      "id": 28,
+      "login": "roland",
+    },
+    Object {
+      "id": 29,
+      "login": "lukas",
+    },
+    Object {
+      "id": 30,
+      "login": "fanvsfan",
+    },
+    Object {
+      "id": 31,
+      "login": "tomtt",
+    },
+    Object {
+      "id": 32,
+      "login": "railsjitsu",
+    },
+    Object {
+      "id": 34,
+      "login": "nitay",
+    },
+    Object {
+      "id": 35,
+      "login": "kevwil",
+    },
+    Object {
+      "id": 36,
+      "login": "KirinDave",
+    },
+    Object {
+      "id": 37,
+      "login": "jamesgolick",
+    },
+    Object {
+      "id": 38,
+      "login": "atmos",
+    },
+    Object {
+      "id": 44,
+      "login": "errfree",
+    },
+    Object {
+      "id": 45,
+      "login": "mojodna",
+    },
+    Object {
+      "id": 46,
+      "login": "bmizerany",
+    },
+  ],
+}
+`;
+
+exports[`user details 1`] = `
+Object {
+  "created_at": "2012-05-22T05:52:42Z",
+  "html_url": "https://github.com/vicentedealencar",
+  "id": 1762868,
+  "login": "vicentedealencar",
+}
+`;
+
+exports[`user repos 1`] = `
+Array [
+  Object {
+    "html_url": "https://github.com/vicentedealencar/angular-timer",
+    "id": 20203386,
+    "name": "angular-timer",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/awesome-css-frameworks",
+    "id": 197004649,
+    "name": "awesome-css-frameworks",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/awesome-interview-questions",
+    "id": 135620617,
+    "name": "awesome-interview-questions",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/awesome-redux",
+    "id": 40948585,
+    "name": "awesome-redux",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/batalha-de-hashtags",
+    "id": 190095027,
+    "name": "batalha-de-hashtags",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/bill-app",
+    "id": 107597479,
+    "name": "bill-app",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/blog",
+    "id": 7658138,
+    "name": "blog",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/canvas-grid",
+    "id": 6679403,
+    "name": "canvas-grid",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/direita-vs-esquerda-app",
+    "id": 187307019,
+    "name": "direita-vs-esquerda-app",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/dotfiles",
+    "id": 6664722,
+    "name": "dotfiles",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/electron-boilerplate",
+    "id": 45992751,
+    "name": "electron-boilerplate",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/electron-template",
+    "id": 39739771,
+    "name": "electron-template",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/electron-with-create-react-app",
+    "id": 81905289,
+    "name": "electron-with-create-react-app",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/este",
+    "id": 35780684,
+    "name": "este",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/gh-users-app",
+    "id": 211181659,
+    "name": "gh-users-app",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/imposto-e-roubo",
+    "id": 185684513,
+    "name": "imposto-e-roubo",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/javascript-for-cats",
+    "id": 13946309,
+    "name": "javascript-for-cats",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/kcd-scripts",
+    "id": 149076668,
+    "name": "kcd-scripts",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/md5-password-cracker.js",
+    "id": 7445179,
+    "name": "md5-password-cracker.js",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/nativescript-with-redux",
+    "id": 41881468,
+    "name": "nativescript-with-redux",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/node-isohunt",
+    "id": 7628503,
+    "name": "node-isohunt",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/node-ss2json",
+    "id": 200908099,
+    "name": "node-ss2json",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/perceptron.js",
+    "id": 32440628,
+    "name": "perceptron.js",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/phonegap-start",
+    "id": 8564836,
+    "name": "phonegap-start",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/playground",
+    "id": 7357927,
+    "name": "playground",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/pouchdb-seamless-auth",
+    "id": 51969339,
+    "name": "pouchdb-seamless-auth",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/powershell-backup-script",
+    "id": 5566414,
+    "name": "powershell-backup-script",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/projeto-final",
+    "id": 11489208,
+    "name": "projeto-final",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/quantum-observer",
+    "id": 124694342,
+    "name": "quantum-observer",
+  },
+  Object {
+    "html_url": "https://github.com/vicentedealencar/react-agnostic",
+    "id": 149077114,
+    "name": "react-agnostic",
+  },
+]
+`;

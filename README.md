@@ -21,6 +21,14 @@ npm i -g now
 now dev
 ```
 
+## Testing
+
+```
+yarn test
+# or
+npm test
+```
+
 ## Deployment
 
 ```

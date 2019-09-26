@@ -1,6 +1,7 @@
 {
   "name": "gh-users-app",
   "scripts": {
+    "test": "jest",
     "dev": "next",
     "build": "next build",
     "start": "next start"
@@ -11,5 +12,10 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
 }
